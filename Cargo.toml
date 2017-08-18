@@ -11,4 +11,6 @@ repository = "https://github.com/sdleffler/nano-rs"
 keywords = ["compiler", "nanopass", "framework", "syntax", "transform"]
 categories = []
 
+license = "Apache-2.0/MIT"
+
 [dependencies]
